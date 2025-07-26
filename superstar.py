@@ -6,6 +6,7 @@ def greet(name):
 def add(a, b):
     """Function to add two numbers."""
     return a + b
+print("AFTER CHANGES")
 
 # This is a comment line
 print("Why is there so much traffic in sus??")

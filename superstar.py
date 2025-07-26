@@ -6,5 +6,5 @@ def greet(name):
 def add(a, b):
     """Function to add two numbers."""
     return a + b
-
-# This is a comment line
+def multiply(a, b):
+    return a * b

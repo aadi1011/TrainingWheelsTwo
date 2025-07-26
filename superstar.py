@@ -1,4 +1,5 @@
 print("hello world")
+print("xyz")
 
 def greet(name):
     """Function to greet a person."""

@@ -8,3 +8,7 @@ def add(a, b):
     return a + b
 
 # This is a comment line
+
+def hello():
+    print("Hello Bhavya !")
+    print("Saturday - 12.30 pm")
